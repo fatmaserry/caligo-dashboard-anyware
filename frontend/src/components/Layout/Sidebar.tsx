@@ -92,10 +92,10 @@ const Sidebar: React.FC<SidebarProps> = ({
         </ul>
 
         {/* Logout */}
-        <div className="p-4 flex flex-col gap-3 lg:hidden">
+        <div className="p-4 flex flex-col gap-3">
           {user && (
             <>
-              <div className="flex gap-3 items-center">
+              <div className="flex gap-3 items-center lg:hidden">
                 <Avatar src="/student.png" alt="profile" size={50} />
                 <div className="flex flex-col">
                   <p className="font-semibold text-sm text-gray-800">

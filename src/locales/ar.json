@@ -1,0 +1,22 @@
+{
+    "appName": "كولجو",
+    "welcome": "مرحباً",
+    "dashboard": "لوحة التحكم",
+    "examsTime": "وقت الامتحانات",
+    "examsDescription": "ها نحن ذا. هل أنت مستعد للقتال؟ لا تقلق، لقد أعددنا بعض النصائح لتكون مستعدًا لامتحاناتك.",
+    "viewTips": "عرض نصائح الامتحانات",
+    "announcements": "الإعلانات",
+    "whatsDue": "الواجبات المستحقة",
+    "noDueItems": "لا توجد واجبات!",
+    "refresh": "تحديث",
+    "all": "الكل",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "scheduled": "المجدول",
+    "courses": "الكورسات",
+    "gradebook": "سجل الدرجات",
+    "performance": "الأداء",
+    "announcement": "إعلان",
+    "noAnnouncement": "لا توجد اي اشعارات!",
+    "educationalPlatform": "منصتك التعليمية للنجاح"
+}

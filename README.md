@@ -83,7 +83,6 @@ Before running this project, ensure you have the following installed:
 
 ```bash
 git clone <repository-url>
-cd anyware-challenge
 ```
 
 ### 2. Backend Setup

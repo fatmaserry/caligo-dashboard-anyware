@@ -1,0 +1,22 @@
+{
+    "appName": "Coligo",
+    "welcome": "Welcome",
+    "dashboard": "Dashboard",
+    "examsTime": "EXAMS TIME",
+    "examsDescription": "Here we are. Are you ready to fight? Don't worry, we prepared some tips to be ready for your exams.",
+    "viewTips": "View exams tips",
+    "announcements": "Announcements",
+    "whatsDue": "What's due",
+    "noDueItems": "No Due Dates!",
+    "refresh": "Refresh",
+    "all": "All",
+    "login": "Login",
+    "logout": "Logout",
+    "scheduled": "Scheduled",
+    "courses": "Courses",
+    "gradebook": "Gradebook",
+    "performance": "Performance",
+    "announcement": "Announcement",
+    "noAnnouncement": "No Announcement Found!",
+    "educationalPlatform": "Your educational platform for success"
+}

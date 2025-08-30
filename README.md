@@ -159,10 +159,7 @@ The application connects to MongoDB using the `MONGO_URI` environment variable. 
 - `GET /api/student/:id` - Get student details
 - `GET /api/instructor/:id` - Get instructor details
 
-```
-
 ## 🔒 Security Features
-
 - **CORS Protection** - Cross-origin request security
 - **Input Validation** - Server-side validation for all inputs
 - **Role-Based Access Control** - Granular permission system
@@ -171,17 +168,15 @@ The application connects to MongoDB using the `MONGO_URI` environment variable. 
 ## 🌐 Internationalization
 
 The application supports multiple languages:
-
 - **English** (en) - Default language
 - **Arabic** (ar) - Right-to-left (RTL) support
 
 Language switching is available through the UI and persists across sessions.
 
 ## 📱 Responsive Design
-
 - **Mobile-First Approach** - Optimized for mobile devices
 - **Material Design** - Modern, accessible UI components
 - **Tailwind CSS** - Utility-first CSS framework for rapid development
 - **Cross-Browser Compatibility** - Works on all modern browsers
 
----
+```

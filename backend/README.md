@@ -87,28 +87,24 @@ src/
 
 ## 📚 API Endpoints
 
-### Authentication
-
-- `POST /api/student/login` - Student authentication
-- `POST /api/instructor/login` - Instructor authentication
-
 ### Quiz Management
-
-- `GET /api/quiz` - Retrieve user quizzes
+- `GET /api/quiz` - Retrieve all quizzes
 - `POST /api/quiz` - Create new quiz
 - `PUT /api/quiz/:id` - Update quiz
 - `DELETE /api/quiz/:id` - Delete quiz
+- `GET /api/quiz/student/:id` - Retrieve student quizzes
 
 ### Announcements
-
 - `GET /api/announcement` - Get all announcements
 - `POST /api/announcement` - Create announcement
-- `GET /api/announcement/user/:userId` - Get user-specific announcements
+- `PUT /api/announcement/:id` - Update announcement
+- `DELETE /api/announcement/:id` - Delete announcement
+- `GET /api/announcement/student/:id` - Get student-specific announcements
 
 ### User Management
-
 - `GET /api/student/:id` - Get student details
 - `GET /api/instructor/:id` - Get instructor details
+
 
 ## 🗄️ Database Models
 

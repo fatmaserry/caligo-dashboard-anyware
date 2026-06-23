@@ -1,4 +1,4 @@
-# Anyware Challenge - Education Platform
+# Education Platform
 
 A comprehensive full-stack education management platform built with modern web technologies, featuring user authentication, course management, quiz systems, and real-time announcements.
 
